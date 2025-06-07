@@ -1,0 +1,8 @@
+1. Static vs. Interactive Visualization
+Static images, such as PNGs or PDFs, offer a picture-perfect snapshot that captures the data at their state at a single point in time. They can be useful for reports or presentations, but such an image-path limits the ability of the viewer to perform any kind of exploration. Conversely, interactive visualizations allow the user to hover, zoom, check filters, and even explore different facets of the data on the fly, thus helping users discover insights without altering any code or data set. 
+
+2. Advantages of Dashboards for Real-Time Data Exploration
+Dashboards act as any site's front counter for real-time data exploration. They put power into setting parameters, drilling down to finer levels of metrics, and watching trends for the users without any technical knowledge. Such an interactive mode becomes effective in speeding up and facilitating decision making by providing up-to-the-minute insights while allowing a user to inquire and intuitively answer their own questions from the data in real-time.
+
+3. Benefits of Using Plotly and Dash in a Professional Setting 
+Plotly and Dash allow the communication of data by giving abstract data concreteness and attractiveness in the professional realm. Plotly and Dash can help design interactive dashboards for stakeholders in a business setting, which helps to speed up the interaction between technical teams and their business. They help narrow the gap between data science and strategy by combining Python's data analysis strength and attractive interactivity.

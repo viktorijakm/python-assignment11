@@ -7,6 +7,7 @@ df = px.data.gapminder()
 
 # Initialize Dash app
 app = Dash(__name__)
+
 server = app.server
 
 # List of unique countries
